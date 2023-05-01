@@ -18,4 +18,6 @@ Libraries used:
 The scope of the project is to determine the crop yield of an area by considering dataset with some features which are important or related to crop production such as temperature, moisture, rainfall, and production of the crop in previous years. To predict a continuous value, regression models are used.
 
 Crop yield prediction systems provide for better planning and decision-making to increase production. The proposed system involves a prediction module based on data mining classification algorithm namely Random Forest used to forecast the yield of major crops based on historical data
+
 This is the link of the project video:
+https://drive.google.com/file/d/12GMh1E55yOQTPa9X0MHM0Tx7S4-8qNtX/view?usp=share_link
